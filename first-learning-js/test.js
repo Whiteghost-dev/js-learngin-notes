@@ -1,1 +1,1 @@
-console.log("jay shree ganeshay namahṇ")
+console.log("jay shree ganeshay namah")
